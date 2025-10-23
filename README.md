@@ -1,6 +1,5 @@
-![CI GitHubAction](https://github.com/peterarsentev/CheckDev/actions/workflows/maven.yml/badge.svg)
-
-## **[CheckDev](https://checkdev.ru/index)** — пробные собеседования в IT
+[![Java CI with Maven](https://github.com/Olegsander48/job4j_mock/actions/workflows/maven.yml/badge.svg)](https://github.com/Olegsander48/job4j_mock/actions/workflows/maven.yml)
+## **CheckDev** — пробные собеседования в IT
 
 ___
 
