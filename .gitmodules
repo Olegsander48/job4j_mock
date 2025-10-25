@@ -16,3 +16,6 @@
 [submodule "services/notification"]
 	path = services/notification
 	url = https://github.com/Olegsander48/notification.git
+[submodule "services/site"]
+	path = services/site
+	url = https://github.com/Olegsander48/site.git
