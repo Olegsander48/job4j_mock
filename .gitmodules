@@ -3,7 +3,7 @@
 	url = https://github.com/Olegsander48/auth.git
 [submodule "services/desc"]
 	path = services/desc
-	url = https://github.com/OlegsandDer48/auth.git
+	url = https://github.com/Olegsander48/desc.git
 [submodule "services/eureka"]
 	path = services/eureka
 	url = https://github.com/Olegsander48/eureka.git
