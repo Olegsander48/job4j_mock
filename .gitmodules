@@ -10,3 +10,6 @@
 [submodule "services/generator"]
 	path = services/generator
 	url = https://github.com/Olegsander48/generator.git
+[submodule "services/mock"]
+	path = services/mock
+	url = https://github.com/Olegsander48/mock.git
