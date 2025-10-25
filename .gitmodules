@@ -13,3 +13,6 @@
 [submodule "services/mock"]
 	path = services/mock
 	url = https://github.com/Olegsander48/mock.git
+[submodule "services/notification"]
+	path = services/notification
+	url = https://github.com/Olegsander48/notification.git
