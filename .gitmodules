@@ -1,3 +1,6 @@
 [submodule "services/auth"]
 	path = services/auth
 	url = https://github.com/Olegsander48/auth.git
+[submodule "services/desc"]
+	path = services/desc
+	url = https://github.com/OlegsandDer48/auth.git
